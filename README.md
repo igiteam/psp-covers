@@ -1,6 +1,6 @@
-# gamecube-covers
+# psp-covers
 
-gamecube-covers
+psp-covers
 
 python3 -m venv venv
 source venv/bin/activate
